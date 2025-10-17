@@ -1,0 +1,10 @@
+mes,producto,ventas,region
+enero,Notebook,12000,Santiago
+enero,Mouse,3500,Santiago
+enero,Teclado,4800,Valparaiso
+febrero,Notebook,15000,Valparaiso
+febrero,Mouse,4200,Santiago
+febrero,Monitor,9800,Concepcion
+marzo,Notebook,17000,Santiago
+marzo,Teclado,5200,Valparaiso
+marzo,Monitor,11500,Concepcion
